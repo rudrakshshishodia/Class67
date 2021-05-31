@@ -5,3 +5,4 @@ Spider-Man
 Barton
 Loki
 Black Widow
+Flash
